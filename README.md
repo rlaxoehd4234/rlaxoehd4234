@@ -1,5 +1,5 @@
 
-# every day, every moment
+# every day, every moment:smirk::smirk:
 ![DevKimtaedong](https://github-readme-stats.vercel.app/api?username=rlaxoehd4234&show_icons=true&theme=radical)
 
 
