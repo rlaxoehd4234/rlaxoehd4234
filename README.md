@@ -2,9 +2,6 @@
 
 # every day, every moment <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 
-![DevKimtaedong](https://github-readme-stats.vercel.app/api?username=rlaxoehd4234&show_icons=true&theme=radical)
-
-
 
 
 
@@ -24,10 +21,6 @@
 
 
 
-
-
-## Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxoehd4234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Backjoon
