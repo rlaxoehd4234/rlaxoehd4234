@@ -6,7 +6,6 @@
   
 </p>
 
-## Skills 
 
 ## Language & FrameWork
 <p>
