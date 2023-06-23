@@ -59,8 +59,6 @@
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rlaxoehd4234&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
-
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxoehd4234">
 </div>
 
