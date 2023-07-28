@@ -46,16 +46,6 @@
 
 
 
-## 📖 Experience
-- 2023.03~ GDSC PKNU 23기 MEMBER
-- 2023.01~ 멋쟁이사자처럼 부산외대 11기 BE
-- 2022.12~ 부산외대 ,DevTown(코딩 협업 동아리)
-- 2021.03~ 부산외대 ,그린비(컴퓨터공학과, 연구실)
-
-
-
-
-
 
 <div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxoehd4234">
