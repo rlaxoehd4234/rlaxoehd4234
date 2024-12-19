@@ -22,7 +22,7 @@
                   ![MySQL](https://img.shields.io/badge/MySQL-5.7-blue)
 - **기여**: 게시판, 좋아요, 팀 도메인 개발, AWS 배포(EC2, RDS, LB, ACM), HTTPS 적용
 
-**[시정조치프로그램(더존 연계 교육)](https://github.com/rlaxoehd4234/Umbrella](https://github.com/rlaxoehd4234/douzoneCorrectiveAction))**
+**[시정조치프로그램(더존 연계 교육)](https://github.com/rlaxoehd4234/douzoneCorrectiveAction)**
 - **설명**: 문제 및 사고사항 발생 시 효율적인 처리를 위한 프로세스를 구현한 팀 프로젝트입니다.
 - **기술 스택**:  ![Java](https://img.shields.io/badge/Java-8%2B-blue)
                   ![Dews](https://img.shields.io/badge/Dews-1.0-orange)  <!-- 듀스에 대한 배지는 없어 대체 배지로 표시 -->
