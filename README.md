@@ -31,29 +31,26 @@
                   ![DBeaver](https://img.shields.io/badge/DBeaver-7.3.2-blue)
 - **기여**: 시정조치총관리 도메인 개발, 팀 리더, 문서 작성(Team TimeLine)
 
-**[JCO(취업준비코드러들 모여라!!)](https://github.com/rlaxoehd4234/JCO)**
-- **설명**: 취업 준비를 위한 커뮤니티, AI 면접 준비, 이력서 및 자기소개서 작성을 지원하는 팀 프로젝트입니다. 
+**[출근하자(직원 근태관리 플랫폼)](https://github.com/chulgunhaza/chulgunhaza-backend)**
+- **설명**: 직원들의 근태 관리를 효율적으로 하기 위한 프로젝트 (기술적 목적 : 동시성 제어와 순간의 트래픽 제어 해결)
 - **기술 스택**: ![Java](https://img.shields.io/badge/Java-8%2B-blue)
                  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.0-green)
-                 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-                 ![HTML](https://img.shields.io/badge/HTML5-orange)
-                 ![React](https://img.shields.io/badge/React-17.0.0-blue)
                  ![Spring Security](https://img.shields.io/badge/Spring_Security-5.5.0-blue)
                  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-2.5.0-blue)
-                 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
-                 ![Grafana](https://img.shields.io/badge/Grafana-7.4-blue)
-                 ![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.21-Blue?logo=kubernetes&logoColor=white)
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.x-006F39)
+     ![Redis](https://img.shields.io/badge/Redis-6.x-DC382D)
+![Docker](https://img.shields.io/badge/Docker-20.x-blue)
+![Nginx](https://img.shields.io/badge/Nginx-1.x-lightgray)
+![Git](https://img.shields.io/badge/Git-2.x-F05032)
+![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-brightgreen)
                  ![AWS EC2](https://img.shields.io/badge/AWS_EC2-Black?logo=aws&logoColor=white)
-                 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-Black?logo=aws&logoColor=white)
-- **기여**: 커뮤니티, 로그인, AI 면접 개발, 팀 리더, 문서 작성(API 명세)
+
+- **기여**: 채팅, 게시판, 알람, 문서 작성, thymeleaf 페이지 개발
 
 
 **알고리즘 💦**
 <br>
-**학부생**<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxoehd4234)](https://solved.ac/rlaxoehd4234/)
 
-**그 후**<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mutn991105)](https://solved.ac/mutn991105/)
 
 
